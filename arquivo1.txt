@@ -1,6 +1,10 @@
+Uma alteração no inicio
+
 Qualquer coisa...
 
 Uma linha antes...
+
+Estou na master
 
 Outra alteração para comparar commits...
 
